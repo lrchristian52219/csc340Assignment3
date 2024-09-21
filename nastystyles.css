@@ -1,0 +1,38 @@
+.banner {
+	text-align: center;
+	background-color: #787878;
+	padding: 10px 0;
+}
+
+.banner img{
+	max-width: 100%;
+	height: auto;
+	display: inline-block;
+}
+
+body {
+	background-color: #2e2e2e;
+	color: #f0f0f0;
+	margin: 0;
+	padding: 0;
+}
+.btn {
+	color: #000000;
+	background-color: #fdcc32;
+	border: 1px solid transparent;
+}
+
+.btn:hover {
+	background-color: #dda803;
+}
+
+.footer {
+	background-color: #787878;
+	color: #f0f0f0;
+	text-align: center;
+	padding: 20px;
+}
+
+.img-fluid {
+	padding-bottom: 20px;
+}
